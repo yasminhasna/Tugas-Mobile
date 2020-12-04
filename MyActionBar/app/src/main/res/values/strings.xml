@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyActionBar</string>
+
+    <string name="hello_blank_fragment">Hello blank Fragment</string>
+    <string name="ini_adalah_menu_activity">Ini adalah menu activity</string>
+    <string name="ini_adalah_menu_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu1</string>
+    <string name="menu_2">Menu2</string>
+    <string name="this_activity" />
+    <string name="this_fragment" />
+</resources>
